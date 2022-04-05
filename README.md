@@ -1,2 +1,2 @@
 # iperf3bin
-Compiled iperf3 Windows bin files.
+Compiled iperf3 Windows binaries.
